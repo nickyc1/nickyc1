@@ -108,8 +108,11 @@ See each skill's **Related Skills** section for the full dependency map.
 | [ad-creative](https://github.com/nickyc1/ad-creative) | Generate, iterate, and scale paid ad creative — hooks, headlines, descriptions, primary text, static image briefs, video scripts. |
 | [apple-grade-design](https://github.com/nickyc1/apple-grade-design) | Apple-grade UI design workflow that stacks Stitch MCP for layouts, Nano Banana 2 MCP for visuals, and UI/UX Pro Max for critique. |
 | [attribution-modeling](https://github.com/nickyc1/attribution-modeling) | Build, audit, and operate a profit-first attribution model that connects ad-platform spend to your real revenue and profit, not the platforms' reported ROAS. |
+| [bestnasalstrips](https://github.com/nickyc1/bestnasalstrips) | Best Nasal Strips: independent hands-on reviews of nasal strips and dilators |
 | [blp-designs](https://github.com/nickyc1/blp-designs) | Five design directions for Baby Let's Padel — editorial, technical, brutalist, atlas, exhibition. |
+| [creatorboard](https://github.com/nickyc1/creatorboard) | (no description) |
 | [customer-research](https://github.com/nickyc1/customer-research) | Conduct, analyze, and synthesize customer research that actually changes downstream marketing. |
+| [dozies](https://github.com/nickyc1/dozies) | (no description) |
 | [founder-email-finder](https://github.com/nickyc1/founder-email-finder) | Find and verify founder emails for prospects in a Google Sheet, and write only confidence-approved emails into the target column. |
 | [google-ads-manager](https://github.com/nickyc1/google-ads-manager) | Profit-first Google Ads management playbook. Use to run weekly reviews, mine search terms for negatives, propose budget reallocations, and check campaigns against circuit-breaker safety rails. |
 | [google-ads-mcp-setup](https://github.com/nickyc1/google-ads-mcp-setup) | First-time setup guide for the Google Ads MCP server (google-ads-mcp). |
@@ -119,6 +122,7 @@ See each skill's **Related Skills** section for the full dependency map.
 | [n8n-recipes](https://github.com/nickyc1/n8n-recipes) | Design, build, debug, and version-control n8n workflows from Claude Code. |
 | [paid-ads-context](https://github.com/nickyc1/paid-ads-context) | Foundation context document for a paid-ads operation. |
 | [paid-channel-recap](https://github.com/nickyc1/paid-channel-recap) | Generate a paid-channel performance recap as a shareable HTML dashboard for a client, partner, or internal stakeholder after (or during) a campaign window. |
+| [sanosleep](https://github.com/nickyc1/sanosleep) | Nasalift - the nasal strip that actually stays on (pre-launch) |
 | [social-publish-guardrails](https://github.com/nickyc1/social-publish-guardrails) | Reusable social publishing workflow with a hard human-approval gate before any publish action. Use when scheduling Instagram, TikTok, Twitter/X, LinkedIn, or Facebook content from a CSV/sheet queue. |
 | [ThreadCopy-Browser-Ext](https://github.com/nickyc1/ThreadCopy-Browser-Ext) | (no description) |
 | [voice-profile-kit](https://github.com/nickyc1/voice-profile-kit) | Build, maintain, and apply your own voice profile so AI writes as you, not as a stock LinkedIn marketer. |
