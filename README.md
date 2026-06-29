@@ -112,8 +112,8 @@ See each skill's **Related Skills** section for the full dependency map.
 | [blp-designs](https://github.com/nickyc1/blp-designs) | Five design directions for Baby Let's Padel — editorial, technical, brutalist, atlas, exhibition. |
 | [creatorboard](https://github.com/nickyc1/creatorboard) | (no description) |
 | [customer-research](https://github.com/nickyc1/customer-research) | Conduct, analyze, and synthesize customer research that actually changes downstream marketing. |
-| [dozies](https://github.com/nickyc1/dozies) | (no description) |
 | [founder-email-finder](https://github.com/nickyc1/founder-email-finder) | Find and verify founder emails for prospects in a Google Sheet, and write only confidence-approved emails into the target column. |
+| [google-ads-agent-playbook](https://github.com/nickyc1/google-ads-agent-playbook) | (no description) |
 | [google-ads-manager](https://github.com/nickyc1/google-ads-manager) | Profit-first Google Ads management playbook. Use to run weekly reviews, mine search terms for negatives, propose budget reallocations, and check campaigns against circuit-breaker safety rails. |
 | [google-ads-mcp-setup](https://github.com/nickyc1/google-ads-mcp-setup) | First-time setup guide for the Google Ads MCP server (google-ads-mcp). |
 | [granola-action-items](https://github.com/nickyc1/granola-action-items) | Parse Granola meeting recordings, extract action items, and run a daily/weekly briefing of open items to Slack or any other channel. |
@@ -123,6 +123,7 @@ See each skill's **Related Skills** section for the full dependency map.
 | [paid-ads-context](https://github.com/nickyc1/paid-ads-context) | Foundation context document for a paid-ads operation. |
 | [paid-channel-recap](https://github.com/nickyc1/paid-channel-recap) | Generate a paid-channel performance recap as a shareable HTML dashboard for a client, partner, or internal stakeholder after (or during) a campaign window. |
 | [sanosleep](https://github.com/nickyc1/sanosleep) | Nasalift - the nasal strip that actually stays on (pre-launch) |
+| [ship-icp-ads-automate-monitoring](https://github.com/nickyc1/ship-icp-ads-automate-monitoring) | CXL workshop starter: n8n ads reporting digest (Google+Meta to Slack) + ICP-to-scored-copy dashboard. Build prompts + dummy data included. |
 | [social-publish-guardrails](https://github.com/nickyc1/social-publish-guardrails) | Reusable social publishing workflow with a hard human-approval gate before any publish action. Use when scheduling Instagram, TikTok, Twitter/X, LinkedIn, or Facebook content from a CSV/sheet queue. |
 | [ThreadCopy-Browser-Ext](https://github.com/nickyc1/ThreadCopy-Browser-Ext) | (no description) |
 | [voice-profile-kit](https://github.com/nickyc1/voice-profile-kit) | Build, maintain, and apply your own voice profile so AI writes as you, not as a stock LinkedIn marketer. |
