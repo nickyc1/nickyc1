@@ -122,6 +122,8 @@ See each skill's **Related Skills** section for the full dependency map.
 | [n8n-recipes](https://github.com/nickyc1/n8n-recipes) | Design, build, debug, and version-control n8n workflows from Claude Code. |
 | [paid-ads-context](https://github.com/nickyc1/paid-ads-context) | Foundation context document for a paid-ads operation. |
 | [paid-channel-recap](https://github.com/nickyc1/paid-channel-recap) | Generate a paid-channel performance recap as a shareable HTML dashboard for a client, partner, or internal stakeholder after (or during) a campaign window. |
+| [patriot-crew-youtube-tracker](https://github.com/nickyc1/patriot-crew-youtube-tracker) | Weekly Patriot Crew YouTube spend and post-purchase survey acquisition tracker |
+| [saas-playbook](https://github.com/nickyc1/saas-playbook) | A battle-tested playbook for building and launching a SaaS product from zero to first paying users. Based on the CalConnect build. |
 | [sanosleep](https://github.com/nickyc1/sanosleep) | Nasalift - the nasal strip that actually stays on (pre-launch) |
 | [ship-icp-ads-automate-monitoring](https://github.com/nickyc1/ship-icp-ads-automate-monitoring) | CXL workshop starter: n8n ads reporting digest (Google+Meta to Slack) + ICP-to-scored-copy dashboard. Build prompts + dummy data included. |
 | [social-publish-guardrails](https://github.com/nickyc1/social-publish-guardrails) | Reusable social publishing workflow with a hard human-approval gate before any publish action. Use when scheduling Instagram, TikTok, Twitter/X, LinkedIn, or Facebook content from a CSV/sheet queue. |
