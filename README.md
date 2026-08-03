@@ -106,7 +106,8 @@ See each skill's **Related Skills** section for the full dependency map.
 | Skill | Description |
 |-------|-------------|
 | [ad-creative](https://github.com/nickyc1/ad-creative) | Generate, iterate, and scale paid ad creative — hooks, headlines, descriptions, primary text, static image briefs, video scripts. |
-| [apple-grade-design](https://github.com/nickyc1/apple-grade-design) | Apple-grade UI design workflow that stacks Stitch MCP for layouts, Nano Banana 2 MCP for visuals, and UI/UX Pro Max for critique. |
+| [apple-grade-design](https://github.com/nickyc1/apple-grade-design) | Apple-grade UI design workflow that stacks Landingfolio MCP for inspiration references, Stitch MCP for layouts, Nano Banana 2 MCP for visuals, and UI/UX Pro Max for critique. |
+| [appsumo-radar-concept](https://github.com/nickyc1/appsumo-radar-concept) | Unofficial concept demo: a name-your-price shelf for open-source dictation tools. Not affiliated with AppSumo. |
 | [attribution-modeling](https://github.com/nickyc1/attribution-modeling) | Build, audit, and operate a profit-first attribution model that connects ad-platform spend to your real revenue and profit, not the platforms' reported ROAS. |
 | [bestnasalstrips](https://github.com/nickyc1/bestnasalstrips) | Best Nasal Strips: independent hands-on reviews of nasal strips and dilators |
 | [blp-designs](https://github.com/nickyc1/blp-designs) | Five design directions for Baby Let's Padel — editorial, technical, brutalist, atlas, exhibition. |
