@@ -110,11 +110,13 @@ See each skill's **Related Skills** section for the full dependency map.
 | [appsumo-2026-benefits](https://github.com/nickyc1/appsumo-2026-benefits) | (no description) |
 | [appsumo-radar-concept](https://github.com/nickyc1/appsumo-radar-concept) | Unofficial concept demo: a name-your-price shelf for open-source dictation tools. Not affiliated with AppSumo. |
 | [attribution-modeling](https://github.com/nickyc1/attribution-modeling) | Build, audit, and operate a profit-first attribution model that connects ad-platform spend to your real revenue and profit, not the platforms' reported ROAS. |
+| [bebos-angels](https://github.com/nickyc1/bebos-angels) | Bebo's Angels nonprofit website review |
 | [bestnasalstrips](https://github.com/nickyc1/bestnasalstrips) | Best Nasal Strips: independent hands-on reviews of nasal strips and dilators |
 | [blp-designs](https://github.com/nickyc1/blp-designs) | Five design directions for Baby Let's Padel — editorial, technical, brutalist, atlas, exhibition. |
 | [calconnect](https://github.com/nickyc1/calconnect) | CalConnect — mirror busy blocks across Google Calendars |
 | [creatorboard](https://github.com/nickyc1/creatorboard) | (no description) |
 | [customer-research](https://github.com/nickyc1/customer-research) | Conduct, analyze, and synthesize customer research that actually changes downstream marketing. |
+| [cxl-icp-copy-brief](https://github.com/nickyc1/cxl-icp-copy-brief) | (no description) |
 | [founder-email-finder](https://github.com/nickyc1/founder-email-finder) | Find and verify founder emails for prospects in a Google Sheet, and write only confidence-approved emails into the target column. |
 | [google-ads-agent-playbook](https://github.com/nickyc1/google-ads-agent-playbook) | (no description) |
 | [google-ads-manager](https://github.com/nickyc1/google-ads-manager) | Profit-first Google Ads management playbook. Use to run weekly reviews, mine search terms for negatives, propose budget reallocations, and check campaigns against circuit-breaker safety rails. |
